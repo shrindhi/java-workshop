@@ -1,2 +1,2 @@
-idiot
-stupid
+hello stupid 
+how are you?
