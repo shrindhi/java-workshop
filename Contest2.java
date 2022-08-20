@@ -12,7 +12,7 @@ public class Contest2 {
 	public static void removeSpam(String folder) {
 
 		// Your logic goes here
-        String spamwords[]={"the","idiot","stupid"};
+        String spamwords[]={"idiot","stupid"};
         File Folder = new File(folder);
         File[] listOfFiles = Folder.listFiles();
         for (File file:listOfFiles) {
