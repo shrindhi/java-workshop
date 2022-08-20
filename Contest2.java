@@ -67,7 +67,7 @@ public class Contest2 {
 }
 
 	public static void main(String[] args) throws Exception {
-		String folder = "C:/Users/ranga/OneDrive/Desktop/SHRI/portal issue/activity/src/textfiles";
+		String folder = "C:/textfiles";
 		removeSpam(folder);
 	}
 
